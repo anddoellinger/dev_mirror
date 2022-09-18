@@ -1,0 +1,11 @@
+    $ curl http://127.0.0.1:5000/
+Rendered in 0.00100s
+
+$ curl http://127.0.0.1:5000/?t=1
+Rendered in 1.00106s
+
+$ curl http://127.0.0.1:5000/?t=2
+Rendered in 2.00111s
+
+$ curl http://127.0.0.1:5000/?t=10
+Rendered in 10.00057s
