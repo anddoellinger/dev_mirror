@@ -1,3 +1,4 @@
-aut_token.txt
+*.txt
+auth_token.txt
 authentication.py
 token_cache_task.bin
